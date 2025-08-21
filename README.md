@@ -68,7 +68,3 @@ Deep Learning sentiment model (BERT)
 Support for multiple languages
 
 Export insights as PDF report
-
-🧑‍💻 Author
-
-👤 Auryn Dcosta
